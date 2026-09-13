@@ -13,8 +13,9 @@ oscuro laberinto.»
 
 **Perché questa idea è pubblica.** Andrea Petrucci, ideatore del metodo:
 
-> «Pubblichiamo, siamo comunque i primi a farlo ed il sapere rende liberi ed è
-> un bene comune.»
+> «Pubblichiamo: pensiamo di essere i primi a farlo, poiché non abbiamo trovato
+> letteratura scientifica al riguardo, ed il sapere rende liberi ed è un bene
+> comune.»
 
 *Sapere Aude* — abbi il coraggio di usare la tua ragione. **Nessuno deve poter
 guadagnare come privato da un'idea che deve restare pubblica**: la scienza
