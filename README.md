@@ -58,7 +58,7 @@ Oltre **450 volte più preciso**, sulla stessa identica misura. Confermato
 anche su un ellissoide oblato (1340,07 contro 1340,41 cm³, −0,03%) e su un
 tubo cavo (spessore parete 2,99949 contro 3,00000 cm, −0,02%).
 
-*Riproducibile: `node tests/plane_sections_report.js`.*
+*Riproducibile: `node tests/plane_sections_report.js`, nel repository dell'applicazione (oggi privato — non ancora estratto in forma standalone in questo repository pubblico).*
 
 ## 3 · Quanto cambia un tempo di CONGELAMENTO vero
 
@@ -119,7 +119,7 @@ condizioni al contorno **asimmetriche**, verificato con un metodo numerico
 | **Conservazione dell'energia** | Il calore che entra ed esce, integrato nel tempo, deve corrispondere all'energia realmente guadagnata o persa (calore sensibile + calore latente del ghiaccio che si forma) | **1,49% di differenza** (soglia 2%) |
 | **Convergenza numerica** | Raffinando la griglia di calcolo, l'errore deve ridursi in modo prevedibile | **Esattamente 4 volte più piccolo** ad ogni raffinamento — la convergenza teorica perfetta |
 
-*Riproducibile: `python docs/asymmetric_wall_freezing_conduction.py`.*
+*Riproducibile: `python asymmetric_wall_freezing_conduction.py`, incluso in questo stesso repository (script indipendente, solo libreria standard).*
 
 ## 6 · Due esempi, stesse misure — una carcassa piena, una cava
 
@@ -209,7 +209,7 @@ controllo veri e propri** — catalogati con una loro storia, spesso nata da un
 bug reale trovato e corretto — copre geometria, termica, congelamento,
 letalità/sicurezza e le affermazioni stesse che l'app fa su di sé.
 
-*Riproducibile: `node tests/run_all.js` dalla radice del repository.*
+*Riproducibile: `node tests/run_all.js` dalla radice del repository dell'applicazione (oggi privato).*
 
 ## 10 · Perché pubblichiamo ora
 
