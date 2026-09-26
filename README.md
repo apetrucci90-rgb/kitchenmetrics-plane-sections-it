@@ -180,11 +180,12 @@ fra articoli e manuali. Esito, onestamente riportato:
   co-autori dell'unico precedente pubblicato che tratta un pollo intero come
   pila di sezioni trasversali (Siripon, Tansakul & Mittal, 2007) — **nessuna
   risposta da nessuno dei due**.
-- **Ors Petnehazy** (11 settembre 2026), autore delle uniche tomografie
-  pubbliche di una cavità di tacchino — email inviata, recapito non
-  confermato. Il suo **dataset 2022 (CC BY, gratuito) è già stato scaricato e
-  usato**, senza bisogno di permesso: è l'unica fonte di morfometria animale
-  realmente in uso in questo lavoro, oggi.
+- **Ors Petnehazy** (11 settembre 2026), autore di un dataset TC pubblico di
+  un tacchino intero (Petnehazy, 2022, figshare, DOI
+  10.6084/m9.figshare.19722595, CC BY 4.0). Quel **dataset è stato scaricato
+  ed è usato secondo la sua licenza**, senza bisogno di permesso: alla data di
+  pubblicazione era l'unica fonte di morfometria animale realmente in uso in
+  questo lavoro.
 
 **Totale onesto: 16 fonti cercate per questo lavoro specifico (13 tramite
 biblioteca + 3 dirette agli autori), 2 realmente disponibili gratis, 1
@@ -236,8 +237,14 @@ si aspetterebbe fra persone corrette.
 > cavity, applied to cooking and freezing time.* KitchenMetrics.
 > https://github.com/apetrucci90-rgb/KitchenMetrics
 
+## Ringraziamenti
+
+Ors Petnehazy DVM, PhD, Medicopus Nonprofit Ltd., e Tamás Donkó Ph.D.,
+Medicopus Nonprofit Ltd., «for providing advice and fruitful discussions».
+
 ---
 
-*Documento pubblicato il 13 settembre 2026. Ogni numero è riproducibile dagli
+*Documento pubblicato il 13 settembre 2026. Rivisto il 26 settembre 2026
+(v1.0.1): §8 riformulato, ringraziamenti aggiunti; nient'altro è cambiato. Ogni numero è riproducibile dagli
 script citati in questo repository pubblico. Versione inglese:
 `POST-GITHUB-SEZIONI-PIANE-EN.md`.*
