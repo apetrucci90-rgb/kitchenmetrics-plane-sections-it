@@ -203,7 +203,9 @@ del nostro modello (l'energia), (c) il comportamento noto di uno schema
 numerico sotto raffinamento della griglia.
 
 **Quanti ne abbiamo**: l'intera app è coperta da **82 suite di test
-automatici, 20.150 asserzioni**, rilanciate ad ogni modifica e confrontate
+automatici, 20.150 asserzioni** *(dato al 26 settembre 2026 / v1.9.5; vedi
+[kitchenmetrics-public](https://github.com/apetrucci90-rgb/kitchenmetrics-public)
+per i totali correnti)*, rilanciate ad ogni modifica e confrontate
 meccanicamente contro i numeri dichiarati nei documenti del progetto (un
 controllo di controlli). Fra queste, un nucleo di oltre **26 motori di
 controllo veri e propri** — catalogati con una loro storia, spesso nata da un
@@ -235,7 +237,7 @@ si aspetterebbe fra persone corrette.
 
 > Petrucci, A. (2026). *Repeated plane sections with a deduced or measured
 > cavity, applied to cooking and freezing time.* KitchenMetrics.
-> https://github.com/apetrucci90-rgb/KitchenMetrics
+> https://github.com/apetrucci90-rgb/kitchenmetrics-plane-sections-it
 
 ## Ringraziamenti
 
@@ -245,6 +247,7 @@ Medicopus Nonprofit Ltd., «for providing advice and fruitful discussions».
 ---
 
 *Documento pubblicato il 13 settembre 2026. Rivisto il 26 settembre 2026
-(v1.0.1): §8 riformulato, ringraziamenti aggiunti; nient'altro è cambiato. Ogni numero è riproducibile dagli
-script citati in questo repository pubblico. Versione inglese:
-`POST-GITHUB-SEZIONI-PIANE-EN.md`.*
+(v1.0.1): §8 riformulato, ringraziamenti aggiunti. Aggiornato il 16 novembre 2026:
+sistemati i link pubblici e il rimando alla versione inglese. Ogni numero è
+riproducibile dagli script citati in questo repository pubblico. Versione inglese:
+[kitchenmetrics-plane-sections-en](https://github.com/apetrucci90-rgb/kitchenmetrics-plane-sections-en).*
